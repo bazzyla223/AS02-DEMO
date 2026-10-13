@@ -56,5 +56,13 @@ The steps include:
 3. Create a branch called `feature-logging`.
 4. Add a logging feature.
 5. Merge the branch into `main`.
-6. Push the
-due by 17/10
+6. Push the project to GitHub.
+
+## 6. File Permissions
+
+File permissions control who can read, change, or run a file.
+The script can be given permission to run using:
+
+chmod +x scripts/sysinfo.sh
+
+DUE BY : 17/10/26
